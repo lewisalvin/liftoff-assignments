@@ -13,7 +13,7 @@ For this assignment, you'll create some initial plans for your project.
 - [Registration](./capstone_image1_small.jpg)
 - [Login](./capstone_image2_small.jpg)
 - [Select Hair](./capstone_image3_small.jpg)
-- [Learn More](./capstone_image4.jpg)
+- [Learn More](./capstone_image4_small.jpg)
 
 ### Project Tracker
 
